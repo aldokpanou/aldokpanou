@@ -23,17 +23,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" height="40" alt="NestJS Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" height="40" alt="Swagger Logo" />
+  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" height="40" alt="Swagger Logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma Logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="SQL Logo" />
+  <img src="https://e7.pngegg.com/pngimages/444/170/png-clipart-microsoft-sql-server-computer-icons-database-sql-s-blue-logo.png" height="40" alt="SQL Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL Logo" />
 </div>
